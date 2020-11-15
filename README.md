@@ -2,7 +2,7 @@
 
 <h2>An automatic dart string translator using <a href="https://cloud.google.com/translate">Google Cloud Translate</a></h2>
 
-Before running set credentials using in your terminal:<br>
+Before running set credentials in your terminal as environment variables:<br>
 ```$env:GOOGLE_API_KEY=<YOUR_KEY>``` <br>
 ```$env:PROJECT_ID=<YOUR_PROJECT_ID>```<br>
 Then: <br>
